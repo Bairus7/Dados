@@ -1,2 +1,9 @@
 # Dados
-Es un script con el cual pones en el chat /dado y sale un numero aleatorio del 1 al 6
+
+This is a script which you put in the chat /dado and it gives you a random number between 1 and 6
+
+Script creted from:
+@Bairus7
+
+Discord:
+Bairus7#7352
